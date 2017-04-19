@@ -1,4 +1,7 @@
-# test coverage for  [homebridge-http (v0.0.9)](https://github.com/rudders/homebridge-http#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-homebridge-http.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-homebridge-http) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-homebridge-http.svg)](https://travis-ci.org/npmtest/node-npmtest-homebridge-http)
+# npmtest-homebridge-http
+
+#### test coverage for  [homebridge-http (v0.0.9)](https://github.com/rudders/homebridge-http#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-homebridge-http.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-homebridge-http) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-homebridge-http.svg)](https://travis-ci.org/npmtest/node-npmtest-homebridge-http)
+
 #### http(s) plugin for Homebridge: https://github.com/nfarina/homebridge
 
 [![NPM](https://nodei.co/npm/homebridge-http.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/homebridge-http)
